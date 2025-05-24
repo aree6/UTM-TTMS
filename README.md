@@ -16,10 +16,10 @@ Run this and copy the output:
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```
 ----------
-###  **Step 4: Navigate to the backend directory and create the `.env` file**
+###  **Step 4: Navigate to the backend directory **
 #### Mac / Linux / Git Bash on Windows:
 ```bash
-cd UTM-TTMS-main/SECJ3104-TTMS-Backend-main && touch .env
+cd UTM-TTMS-main/SECJ3104-TTMS-Backend-main 
 ```
 ----------
 ### **Step 5: Create the `.env` file**
