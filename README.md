@@ -16,7 +16,7 @@ Run this and copy the output:
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```
 ----------
-###  **Step 4: Navigate to the backend directory **
+###  **Step 4: Navigate to the backend directory**
 #### Mac / Linux / Git Bash on Windows:
 ```bash
 cd UTM-TTMS-main/SECJ3104-TTMS-Backend-main 
